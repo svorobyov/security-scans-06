@@ -93,10 +93,10 @@ for your needs.
 
 Have a look at repositories:
 
-1. https://github.com/solita/sv-security-scans-01 (internal)
+1. https://github.com/svorobyov/security-scans-01 (internal)
    containing samples workflow for several excellent open-source 
    security tools invocations. You do not have to have licenses.
-2. https://github.com/solita/sv-security-scans-05a (public)
+2. https://github.com/svorobyov/security-scans-05a (public)
    containing workflow for Bandit (Python SAST) and Snyk
    (commercial but relies on a free tier). Notice that scans 
   in this repo are located on **branches**, not only **main**.
